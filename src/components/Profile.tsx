@@ -100,7 +100,7 @@ const Profile = () => {
           <br />
           <span>3. 구성된 API 설명은 여기서 확인 가능해요</span>
           <br />
-          <a href="http://localhost:5000/api/docs" target="_blank">
+          <a href="http://52.78.73.110:5000/api/docs" target="_blank">
             API DOCS
           </a>
           <br />
